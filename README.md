@@ -1,23 +1,27 @@
-# Try Jupyter, powered by JupyterLite
+Welcome to the Micro 101
+---
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyter.org/try-jupyter)
+Table of Contents
 
-A tour of Jupyter and IPython, powered by JupyterLite.
+[Intro](#introduction)
+[Learnin'](#learning-objectives)
+[Gloss](#glossary)
 
-## ✨ Try it in your browser ✨
+# Introduction
 
-➡️ **https://jupyter.org/try-jupyter**
+Welcome and bienvenue
 
-Clicking the link above should load a JupyterLab environment running in your browser. Open the Introductory notebook at `content/Intro.ipynb` to get started.
+# Learning Objectives
 
-## About this repository
+In the `JupyterLite` session, we will cover the basic concepts of:
 
-This is a demonstration repository meant for use at `try.jupyter.org`. It uses the [JupyterLite project](https://jupyterlite.readthedocs.io/en/latest/) to embed a self-contained Jupyter environment in the browser, along with many popular packages in scientific computing.
+  1. blah
+      - subblah
+      - subblah
+  3. blah
+  5. blah
 
-It uses GitHub pages to serve the JupyterLite bundle, and is accessible at https://jupyter.org/try-jupyter.
+# Glossary
 
-### How to edit these notebooks
-
-The notebooks in this repository are written with [JupyterLite kernels](https://jupyterlite.readthedocs.io/en/latest/kernels/index.html), so if you edit them locally, you will likely over-write the kernel information with your local kernels.
-As such, the easiest way to make edits to them is to do so [**via the Try Jupyter Page**](https://jupyter.org/try-jupyter).
-Make the edits you wish at that URL, then download the notebook and replace the one in a repository locally.
+Micro
+> Meaning real small
