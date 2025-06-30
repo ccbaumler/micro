@@ -1,12 +1,6 @@
 Welcome to the Micro 101
 ---
 
-Table of Contents
-
-[Intro](#introduction)
-[Learnin'](#learning-objectives)
-[Gloss](#glossary)
-
 # Introduction
 
 Welcome and bienvenue
@@ -21,7 +15,15 @@ In the `JupyterLite` session, we will cover the basic concepts of:
   3. blah
   5. blah
 
+# Blah
+
+Information introducing the first learning objective
+
+## Subsection for the first learning objective
+
+And so on for the content of the material
+
 # Glossary
 
-Micro
-> Meaning real small
+Micro:
+> Something real small
